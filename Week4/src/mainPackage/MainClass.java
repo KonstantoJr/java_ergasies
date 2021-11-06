@@ -5,7 +5,7 @@ import randomize.Randomize;
 public class MainClass {
 	public static void main(String [] args) {
 		System.out.println("Projet Week 4");
-		createRandomizedEmployees(5);
+		createRandomizedEmployees(100);
 		
 	}
 	
